@@ -24,5 +24,13 @@ To build Visual you need:
 <h2> Usage</h2>
 <img src="https://media2.giphy.com/media/ZXRX16Iij5C02PkFWi/giphy.gif" width="480" height="210"> 
 <p>Visual is still in the making so this part will be updated/changed. To use visual you need to access the wordkeeper.py script. With this you can add data to the JSON storage. After this you can use the filter.py script to generate a small list of intrest the user probally has. The recommendation of using Visual is for website that uses search bars.</p>
+<h2> Storyboard</h2>
+  <pre>
+  - Create projecct (✔)
+  - Make a python that can be accessed to add data to some kind of storage (✔)
+  - Make a script that generates a list of intrest based on the most used words/terms. (✔)
+  - Create a AI/Program that uses these scripts to activly to generate the most accurate intrest list all the time
+  - Introduce machine learning for a better process
+  - Create more storyboard points</pre>
 
 
