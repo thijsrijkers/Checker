@@ -27,7 +27,8 @@ To build Visual you need:
   https://github.com/thijsrijkers/Bamboo</pre>
 <h2> Usage</h2>
 <img src="https://media2.giphy.com/media/ZXRX16Iij5C02PkFWi/giphy.gif" width="480" height="210"> 
-<p>Visual is still in the making so this part will be updated/changed. To use visual you need to access the wordkeeper.py script. With this you can add data to the JSON storage. After this you can use the filter.py script to generate a small list of intrest the user probally has. The recommendation of using Visual is for website that uses search bars.</p>
+<p>To use Visual you need to follow the steps of installation. Visual is intended to collect data so the service provider can create reliable suggestions. We advise that Visual is used for only applications and or websites. To get it running you need to link a source of information to the WordKeeper.py script. When you have it linked to a source and it is storing data for you in the JSON file, you can start the Visual.py script. You need to keep the window open so the AI can do its work.</p>
+<p> Disclaimer: Visual is still work in progress. We do not support any misuse of Visual.</p>
 <h2> Storyboard</h2>
   <pre>
   - Create projecct (✔)
