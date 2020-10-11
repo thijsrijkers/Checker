@@ -1,2 +1,1 @@
-# Checker
-
+  <img align="center" src="https://media2.giphy.com/media/IJN8K3ogDXbh657ZBV/giphy.gif" width="900" height="860"> 
