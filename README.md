@@ -9,7 +9,7 @@ To build Visual you need:
 - A clone/release of Visual
 
 <h2> Installation</h2>
- <h4> Bamboo</h4>
+ <h3> Bamboo</h3>
  <pre>
    cd\
    cd [Path_To_Bamboo.sh]
@@ -18,4 +18,9 @@ To build Visual you need:
    You can find more detail on my other repo:
   <pre>
   https://github.com/thijsrijkers/Bamboo</pre>
+  <br>
+  <h3> Visual</h3>
+  <pre>
+   More details will be comming</pre>
+
 
