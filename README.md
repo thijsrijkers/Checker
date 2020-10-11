@@ -18,9 +18,8 @@ To build Visual you need:
    You can find more detail on my other repo:
   <pre>
   https://github.com/thijsrijkers/Bamboo</pre>
-  <br>
   <h3> Visual</h3>
-  <pre>
-   More details will be comming</pre>
+  <code>
+   More details will be comming</code>
 
 
