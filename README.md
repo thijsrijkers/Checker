@@ -21,5 +21,9 @@ To build Visual you need:
   <h3> Visual</h3>
   <code>
    More details will be comming</code>
+<h2> Usage</h2>
+<img src="https://media2.giphy.com/media/ZXRX16Iij5C02PkFWi/giphy.gif" width="480" height="210"> 
+<br>
+<p>Visual is still in the making so this part will be updated/changed. To use visual you need to access the wordkeeper.py script. With this you can add data to the JSON storage. After this you can use the filter.py script to generate a small list of intrest the user probally has. The recommendation of using Visual is for website that uses search bars.</p>
 
 
