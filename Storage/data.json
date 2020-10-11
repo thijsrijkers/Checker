@@ -1,5 +1,13 @@
 {
     "WordsEntered": [
-
+        {
+            "Word": "test"
+        },
+        {
+            "Word": "Test1"
+        },
+        {
+            "Word": "Test2"
+        }
     ]
 }
