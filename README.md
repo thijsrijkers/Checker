@@ -37,5 +37,12 @@ To build Visual you need:
   - Create a AI/Program to generate the most accurate intrest list all the time (✔)
   - Introduce machine learning for a better process
   - Create more storyboard points</pre>
+<h2> Sources</h2>
+<ul>
+  <li>https://www.oracle.com/nl/artificial-intelligence/what-is-machine-learning.html</li>
+  <li>https://docs.python.org/3/</li>
+  <li>https://docs.python.org/3/library/json.html</li>
+</ul>
+
 
 
