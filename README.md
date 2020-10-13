@@ -39,7 +39,9 @@ To build Visual you need:
   - Create more storyboard points</pre>
 <h2> Sources</h2>
 <ul>
- 
+  <li>https://www.oracle.com/nl/artificial-intelligence/what-is-machine-learning.html</li>
+  <li>https://docs.python.org/3/</li>
+  <li>https://docs.python.org/3/library/json.html</li>
 </ul>
 
 
