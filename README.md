@@ -32,7 +32,7 @@ To build Visual you need:
 <h2> Storyboard</h2>
   <pre>
   - Create projecct (✔)
-  - Make a python that can be accessed to add data to some kind of storage (✔)
+  - Make a python script that can be accessed to add data to some kind of storage (✔)
   - Make a script that generates a list of intrest based on the most used words/terms. (✔)
   - Create a AI/Program to generate the most accurate intrest list all the time (✔)
   - Introduce machine learning for a better process
