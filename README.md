@@ -39,7 +39,7 @@ To build Visual you need:
   - Create more storyboard points</pre>
 <h2> Sources</h2>
 <ul>
-  <li>https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.mediaelement?redirectedfrom=MSDN&view=netcore-3.1</li>
+ 
 </ul>
 
 
