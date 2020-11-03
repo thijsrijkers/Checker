@@ -2,6 +2,7 @@
 <h1 align="center"> Visual AI </h1>
 <br>
 <p align="center">Visual is a AI that uses machine learning to understand the interest of a user with data that is obtained, to in turn generate topics the user probally likes.</p>
+<br>
 
 <h2> Usage</h2>
 
@@ -12,7 +13,7 @@
 
 <h2> Storyboard</h2>
   <pre>
-  - Create projecct (✔)
+  - Create project (✔)
   - Make a python script that can be accessed to add data to some kind of storage (✔)
   - Make a script that generates a list of intrest based on the most used words/terms. (✔)
   - Create a AI/Program to generate the most accurate intrest list all the time (✔)
