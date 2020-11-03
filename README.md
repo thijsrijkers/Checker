@@ -16,7 +16,9 @@ To build Visual you need:
     <li>Let it keep running</li>
   </ul>
   <p> If Visual.py script says "List Of Topics Has Been Adjusted", it means that the AI is running.</p>
+  
  <h3> Bamboo</h3>
+ 
  <pre>
    cd\
    cd [Path_To_Bamboo.sh]
@@ -25,11 +27,14 @@ To build Visual you need:
    You can find more detail on my other repo:
   <pre>
   https://github.com/thijsrijkers/Bamboo</pre>
+  
 <h2> Usage</h2>
+
 <img src="https://media4.giphy.com/media/ondcObRzXHxIANFAJ0/giphy.gif" width="480" height="234"> 
 <p>To use Visual you need to follow the steps of installation. Visual is intended to collect data so the service provider can create reliable suggestions. We advise that Visual is used for only applications and or websites. To get it running you need to link a source of information to the WordKeeper.py script. When you have it linked to a source and it is storing data for you in the JSON file, you can start the Visual.py script. You need to keep the window open so the AI can do its work.</p>
-<p>Best practice for Visual is for example search bars on websites like a webshop. </p>
+
 <p> Disclaimer: Visual is still work in progress. We do not support any misuse of Visual.</p>
+
 <h2> Storyboard</h2>
   <pre>
   - Create projecct (✔)
@@ -38,6 +43,7 @@ To build Visual you need:
   - Create a AI/Program to generate the most accurate intrest list all the time (✔)
   - Introduce machine learning for a better process
   - Create more storyboard points</pre>
+  
 <h2> Sources</h2>
 <ul>
   <li>https://www.oracle.com/nl/artificial-intelligence/what-is-machine-learning.html</li>
