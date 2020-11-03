@@ -23,7 +23,6 @@
   
 ## Building
 To build Visual you need:
-- A clone/release of Bamboo
 - A clone/release of Visual
 
 <h2> Installation</h2>
