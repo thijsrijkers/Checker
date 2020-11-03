@@ -3,14 +3,9 @@
 <br>
 <p align="center">Visual is a AI that uses machine learning to understand the interest of a user with data that is obtained, to in turn generate topics the user probally likes.</p>
 
-## Building
-To build Visual you need:
-- A clone/release of Bamboo
-- A clone/release of Visual
-
 <h2> Usage</h2>
 
-<img src="https://media4.giphy.com/media/ondcObRzXHxIANFAJ0/giphy.gif" width="480" height="234"> 
+<p align="center"><img src="https://media4.giphy.com/media/ondcObRzXHxIANFAJ0/giphy.gif" width="480" height="234"> </p>
 <p>To use Visual you need to follow the steps of installation. Visual is intended to collect data so the service provider can create reliable suggestions. We advise that Visual is used for only applications and or websites. To get it running you need to link a source of information to the WordKeeper.py script. When you have it linked to a source and it is storing data for you in the JSON file, you can start the Visual.py script. You need to keep the window open so the AI can do its work.</p>
 
 <p> Disclaimer: Visual is still work in progress. We do not support any misuse of Visual.</p>
@@ -25,6 +20,11 @@ To build Visual you need:
   - Develop more in machine learning for better quality
   - Create more storyboard points</pre>
   
+## Building
+To build Visual you need:
+- A clone/release of Bamboo
+- A clone/release of Visual
+
 <h2> Installation</h2>
   <h3> Visual</h3>
   <ul>
