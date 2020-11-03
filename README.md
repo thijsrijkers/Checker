@@ -3,6 +3,7 @@
 <br>
 <p align="center">Visual is a AI that uses machine learning to understand the interest of a user with data that is obtained, to in turn generate topics the user probally likes.</p>
 <br>
+
 ## Building
 To build Visual you need:
 - A clone/release of Visual
@@ -32,7 +33,7 @@ To build Visual you need:
 <p>To use Visual you need to follow the steps of installation. Visual is intended to collect data so the service provider can create reliable suggestions. We advise that Visual is used for only applications and or websites. To get it running you need to link a source for the JSON (more down below). When you have it linked to a source and it is storing data for you in the JSON file, you can start the Visual. Now you wait so the AI can do its work.</p>
 
 <p><b> Disclaimer: Visual is still work in progress. We do not support any misuse of Visual.</b></p>
-<p><img src="https://media4.giphy.com/media/ondcObRzXHxIANFAJ0/giphy.gif" width="480" height="234"> </p>
+<p align="center"><img src="https://media4.giphy.com/media/ondcObRzXHxIANFAJ0/giphy.gif" width="480" height="234"> </p>
 
 <h2> Storyboard</h2>
   <pre>
