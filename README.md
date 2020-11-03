@@ -41,7 +41,8 @@ To build Visual you need:
   - Make a python script that can be accessed to add data to some kind of storage (✔)
   - Make a script that generates a list of intrest based on the most used words/terms. (✔)
   - Create a AI/Program to generate the most accurate intrest list all the time (✔)
-  - Introduce machine learning for a better process
+  - Introduce machine learning for a better process (✔)
+  - Develop more in machine learning for better quality
   - Create more storyboard points</pre>
   
 <h2> Sources</h2>
