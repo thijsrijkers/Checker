@@ -4,17 +4,6 @@
 <p align="center">Visual is a AI that uses machine learning to understand the interest of a user with data that is obtained, to in turn generate topics the user probally likes.</p>
 <br>
 
-## Building
-To build Visual you need:
-- A clone/release of Visual
-
-<h2> Installation</h2>
-  <h3> Visual</h3>
-  <ul>
-   <li>Link the WordKeeper.py script to a source that can enter data for it (or another source that can put data inside data.json)</li>
-   <li>Run the Visual.py script</li>
-   <li>Let it keep running</li></ul>
-  <p> If Visual.py script says "List Of Topics Has Been Adjusted", it means that the AI is running.</p><br>
 <h2> Usage</h2>
 
 <p>To use Visual you need to follow the steps of installation. Visual is intended to collect data so the service provider can create reliable suggestions. We advise that Visual is used for only applications and or websites. To get it running you need to link a source for the JSON (more down below). When you have it linked to a source and it is storing data for you in the JSON file, you can start the Visual. Now you wait so the AI can do its work.</p>
@@ -39,6 +28,18 @@ To build Visual you need:
  <pre> InfoInjectors\PHP_Injector.php </pre>
  <p> All files are not finished yet </p>
 
+## Building
+To build Visual you need:
+- A clone/release of Visual
+
+<h2> Installation</h2>
+  <h3> Visual</h3>
+  <ul>
+   <li>Link the WordKeeper.py script to a source that can enter data for it (or another source that can put data inside data.json)</li>
+   <li>Run the Visual.py script</li>
+   <li>Let it keep running</li></ul>
+  <p> If Visual.py script says "List Of Topics Has Been Adjusted", it means that the AI is running.</p><br>
+  
 <h2> Storyboard</h2>
   <pre>
   - Create project (✔)
