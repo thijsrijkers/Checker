@@ -13,10 +13,10 @@
 
 <h2> Known problems</h2>
 <pre>
- -The JavaScript function not totally function yet.
+ -The JavaScript function not totally functional yet.
  -The PHP doesnt write the data correctly to the JSON file
  -The machine learning barely used
- -There arent exeption catcher what in turn makes Visual very unstable</pre>
+ -There arent exception catchers, what in turn makes Visual very unstable</pre>
  
 <h2> Supported</h2>
  <p>All languages down below is supported from Visual. We want to give the user/developer as easy time as possible so we created files/code for the user/developer to use with Visual. These files can be found inside the InfoInjector folder.</p>
