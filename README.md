@@ -22,16 +22,6 @@ To build Visual you need:
 <p><b> Disclaimer: Visual is still work in progress. We do not support any misuse of Visual.</b></p>
 <p align="center"><img src="https://media4.giphy.com/media/ondcObRzXHxIANFAJ0/giphy.gif" width="480" height="234"> </p>
 
-<h2> Storyboard</h2>
-  <pre>
-  - Create project (✔)
-  - Make a python script that can be accessed to add data to some kind of storage (✔)
-  - Make a script that generates a list of intrest based on the most used words/terms. (✔)
-  - Create a AI/Program to generate the most accurate intrest list all the time (✔)
-  - Introduce machine learning for a better process (✔)
-  - Develop more in machine learning for better quality
-  - Create more storyboard points</pre>
-
 <h2> Known problems</h2>
 <pre>
  -The JavaScript function not totally function yet.
@@ -48,6 +38,17 @@ To build Visual you need:
  <p>The opinions around PHP are mixed but were wanna give this particular language still his attention if it comes to Visual. To implement this injector you need to have a input named "data". The form were the input is placed needs to have a reference to the injector.</p>
  <pre> InfoInjectors\PHP_Injector.php </pre>
  <p> All files are not finished yet </p>
+
+<h2> Storyboard</h2>
+  <pre>
+  - Create project (✔)
+  - Make a python script that can be accessed to add data to some kind of storage (✔)
+  - Make a script that generates a list of intrest based on the most used words/terms. (✔)
+  - Create a AI/Program to generate the most accurate intrest list all the time (✔)
+  - Introduce machine learning for a better process (✔)
+  - Develop more in machine learning for better quality
+  - Create more storyboard points</pre>
+  
 <h2> Sources</h2>
 <ul>
   <li>https://www.oracle.com/nl/artificial-intelligence/what-is-machine-learning.html</li>
