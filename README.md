@@ -10,11 +10,13 @@ To build Visual you need:
 
 <h2> Installation</h2>
   <h3> Visual</h3>
-  <ul>
-    <li>Link the WordKeeper.py script to a source that can enter data for it (or another source that can put data inside data.json) </li>
-    <li>Run the Visual.py script</li>
-    <li>Let it keep running</li>
-  </ul>
+  <pre>
+   <ul>
+     <li>Link the WordKeeper.py script to a source that can enter data for it (or another source that can put data inside data.json) </li>
+     <li>Run the Visual.py script</li>
+     <li>Let it keep running</li>
+   </ul>
+  </pre>
   <p> If Visual.py script says "List Of Topics Has Been Adjusted", it means that the AI is running.</p>
   
  <h3> Bamboo</h3>
