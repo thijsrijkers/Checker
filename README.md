@@ -21,7 +21,7 @@
 <h2> Supported</h2>
  <p>All languages down below is supported from Visual. We want to give the user/developer as easy time as possible so we created files/code for the user/developer to use with Visual. These files can be found inside the InfoInjector folder.</p>
  <h4> JavaScript</h4>
- <p>A good webdeveloper will use JavaScript for its website probally. Because of this reason I wanted to go with this languages. To use the injector for JavaScript you can add the function to another file that gets info. From there you can call the function with the string name that function needs.</p>
+ <p>A good webdeveloper will use JavaScript for its website probally. Because of this reason I wanted to go with this language. To use the injector for JavaScript you can add the function to another file that gets info. From there you can call the function with the string name that function needs.</p>
  <pre> InfoInjectors\JavaScript_Injector.js </pre>
  <h4> PHP</h4>
  <p>The opinions around PHP are mixed but were wanna give this particular language still his attention if it comes to Visual. To implement this injector you need to have a input named "data". The form were the input is placed needs to have a reference to the injector.</p>
