@@ -28,7 +28,7 @@ To build Visual you need:
 <h2> Installation</h2>
   <h3> Visual</h3>
   <ul>
-    <li>Link the WordKeeper.py script (or another source that can put data inside data.json) to a source that can enter data for it</li>
+    <li>Link the WordKeeper.py script to a source that can enter data for it (or another source that can put data inside data.json) </li>
     <li>Run the Visual.py script</li>
     <li>Let it keep running</li>
   </ul>
