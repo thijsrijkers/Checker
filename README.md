@@ -33,7 +33,12 @@ To build Visual you need:
   - Create more storyboard points</pre>
 
 <h2> Known problems</h2>
-
+<p>
+ -The JavaScript function not totally function yet.
+ -The PHP doesnt write the data correctly to the JSON file
+ -The machine learning barely used
+ -There arent exeption catcher what in turn makes Visual very unstable
+</p>
 <h2> Supported</h2>
  <p>All languages down below is supported from Visual. We want to give the user/developer as easy time as possible so we created files/code for the user/developer to use with Visual. These files can be found inside the InfoInjector folder.</p>
  <h4> JavaScript</h4>
