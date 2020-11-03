@@ -31,7 +31,7 @@
 ## Building
 To build Visual you need:
 - A clone/release of Visual
-<br>
+
 <h2> Installation</h2>
   <h3> Visual</h3>
   <ul>
@@ -39,7 +39,6 @@ To build Visual you need:
    <li>Run the Visual.py script</li>
    <li>Let it keep running</li></ul>
   <p> If Visual.py script says "List Of Topics Has Been Adjusted", it means that the AI is running.</p>
-  <br>
 <h2> Storyboard</h2>
   <pre>
   - Create project (✔)
