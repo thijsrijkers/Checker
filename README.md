@@ -36,10 +36,10 @@ To build Visual you need:
  <p>All languages down below is supported from Visual. We want to give the user/developer as easy time as possible so we created files/code for the user/developer to use with Visual. These files can be found inside the InfoInjector folder.</p>
  <h3> JavaScript</h3>
  <p>A good webdeveloper will use JavaScript for its website probally. Because of this reason I wanted to go with this languages. JavaScript is the language to make your sites responsive and dynamic. Because it is so big we wanted to give JavaScript his own injector for Visual so developer can easly use it without any trouble. </p>
- <pre> InfoInjectors\JavaScript_Injector.js <pre>
+ <pre> InfoInjectors\JavaScript_Injector.js </pre>
  <h3> PHP</h3>
  <p>The opinions around PHP are mixed but were wanna give this particular language still his attention if it comes to Visual. Many beginners will start with PHP if they going to start developing in HTML ETC. This is one of the main reason we wanted to create a PHP injector so that new beginners/developers have a easy start. I got that AI or machine learning can be the big thing someone wants to learn because its praised alot and it is very intresting.</p>
- <pre> InfoInjectors\PHP_Injector.php <pre>
+ <pre> InfoInjectors\PHP_Injector.php </pre>
  <p> All files are not finished yet </p>
 <h2> Known problems</h2>
 <h2> Sources</h2>
