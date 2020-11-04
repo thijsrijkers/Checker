@@ -13,6 +13,7 @@
 
 <h2> Known problems</h2>
 <pre>
+ -Visual is at the moment target for one user only
  -The JavaScript function not totally functional yet.
  -The PHP doesnt write the data correctly to the JSON file
  -The machine learning barely used
